@@ -1,0 +1,8 @@
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\bin\Debug\FREDI-CL.exe.config
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\bin\Debug\FREDI-CL.exe
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\bin\Debug\FREDI-CL.pdb
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\obj\Debug\FREDI_CL.Properties.Resources.resources
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\obj\Debug\FREDI-CL.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\obj\Debug\FREDI-CL.exe
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\obj\Debug\FREDI-CL.pdb
+C:\Users\Nicolas\Documents\FREDI-CL\FREDI-CL\obj\Debug\FREDI-CL.csprojAssemblyReference.cache

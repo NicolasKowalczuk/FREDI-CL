@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FREDI_CL
+namespace FREDI_CL.Classes
 {
     class Licencie
     {
